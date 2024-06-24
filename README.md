@@ -1,10 +1,10 @@
 # Ljlgee.github.io
-##Introduction
+## Introduction
 
 this is my personal website
 
 my name is Carrie Lian.Welcome to my fancy website!
 
-##Demos
+## Demos
 
 ![](https://i.gifer.com/embedded/download/4j.gif)
